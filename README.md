@@ -1,2 +1,3 @@
+Estimating the Effect of a Loyalty program on Insurance Claims using
 # Causal_Inference
-Evaluate the impact of customers who enrolling in the loyalty program on insurance claims 
+# A/B test 
